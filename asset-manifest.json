@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/Feedback-application/static/css/main.cee8d2ed.css",
-    "main.js": "/github.io/Feedback-application/static/js/main.2893ef09.js",
-    "static/js/787.ed5dd030.chunk.js": "/github.io/Feedback-application/static/js/787.ed5dd030.chunk.js",
-    "index.html": "/github.io/Feedback-application/index.html",
-    "main.cee8d2ed.css.map": "/github.io/Feedback-application/static/css/main.cee8d2ed.css.map",
-    "main.2893ef09.js.map": "/github.io/Feedback-application/static/js/main.2893ef09.js.map",
-    "787.ed5dd030.chunk.js.map": "/github.io/Feedback-application/static/js/787.ed5dd030.chunk.js.map"
+    "main.css": "/Feedback-application.git/static/css/main.cee8d2ed.css",
+    "main.js": "/Feedback-application.git/static/js/main.a8440a33.js",
+    "static/js/787.ed5dd030.chunk.js": "/Feedback-application.git/static/js/787.ed5dd030.chunk.js",
+    "index.html": "/Feedback-application.git/index.html",
+    "main.cee8d2ed.css.map": "/Feedback-application.git/static/css/main.cee8d2ed.css.map",
+    "main.a8440a33.js.map": "/Feedback-application.git/static/js/main.a8440a33.js.map",
+    "787.ed5dd030.chunk.js.map": "/Feedback-application.git/static/js/787.ed5dd030.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cee8d2ed.css",
-    "static/js/main.2893ef09.js"
+    "static/js/main.a8440a33.js"
   ]
 }
